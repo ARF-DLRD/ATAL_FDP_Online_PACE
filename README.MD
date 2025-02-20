@@ -12,5 +12,5 @@ cd ATAL_FDP_Online_PACE
 
 ```
 
-[Invitation_Inuagration] (./images/invitation1.jpeg)
-[Invitation_2](./images/invitation2.jpeg)
+![Invitation_Inuagration](./images/invitation1.jpeg)\
+![Invitation_2](./images/invitation2.jpeg)
