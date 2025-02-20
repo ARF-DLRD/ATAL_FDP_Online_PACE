@@ -4,7 +4,7 @@
 
 The online FDP program was organized by P.A. College of Engineering, Mangalore, in collaboration with Delloyd R&D (M) Sdn Bhd Malaysia and Centre of Unmanned Technologies IIUM, Malaysia, and Sponsored by AICTE under the ATAL FDP Program.
 
-To conduct similar trainings may contact to Dr. Ahmed Rimaz Faizabadi 
+
 To make local repository - Git commands are:
 ```
 
